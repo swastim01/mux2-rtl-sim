@@ -4,7 +4,7 @@
 
 A Verilog implementation of a parameterized 2:1 multiplexer with testbench and waveform visualization.
 
-![Waveform Example](Screenshot.png) *(Replace with your screenshot)*
+![Waveform Example](Screenshot.png) 
 
 ## Table of Contents
 - [Features](#features)
@@ -33,7 +33,7 @@ A Verilog implementation of a parameterized 2:1 multiplexer with testbench and w
 ## Getting Started
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/mux2-rtl-sim.git
+   git clone https://github.com/swastim01/mux2-rtl-sim.git
    cd mux2-rtl-sim
    ```
 
